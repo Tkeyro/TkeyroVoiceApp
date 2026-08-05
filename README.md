@@ -43,6 +43,10 @@ To use your AI voice in games:
 - Python 3.10 or newer
 - Internet connection (for voice generation and account features)
 
+## Community
+
+Join the Discord for help, feedback, and updates: [discord.gg/EecevJ8M4](https://discord.gg/EecevJ8M4)
+
 ## Support
 
-For issues or questions, reach out via the [Issues](https://github.com/Tkeyro/TkeyroVoiceApp/issues) tab.
+For issues or questions, reach out on [Discord](https://discord.gg/EecevJ8M4) or via the [Issues](https://github.com/Tkeyro/TkeyroVoiceApp/issues) tab.
