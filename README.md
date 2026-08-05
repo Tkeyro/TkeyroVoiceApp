@@ -49,4 +49,4 @@ Join the Discord for help, feedback, and updates: [discord.gg/EecevJ8M4](https:/
 
 ## Support
 
-For issues or questions, reach out on [Discord](https://discord.gg/EecevJ8M4) or via the [Issues](https://github.com/Tkeyro/TkeyroVoiceApp/issues) tab.
+For issues or questions, join the [Discord](https://discord.gg/EecevJ8M4).
